@@ -124,10 +124,10 @@ def predict(theta,X):
 np.mean(predict(res.x,X)==y)
 
 ## Output:
-![logistic regression using gradient descent2](folder\s1.png)
-![logistic regression using gradient descent2](folder\s2.png)
-![logistic regression using gradient descent3](![logistic regression using gradient descent2](folder\s3.png))
-![logistic regression using gradient descent4](![logistic regression using gradient descent2](folder\s4.png)
+![logistic regression using gradient descent2](folder/s1.png)
+![logistic regression using gradient descent2](folder/s2.png)
+![logistic regression using gradient descent3](![logistic regression using gradient descent2](folder/s3.png))
+![logistic regression using gradient descent4](![logistic regression using gradient descent2](folder/s4.png)
 )
 
 
