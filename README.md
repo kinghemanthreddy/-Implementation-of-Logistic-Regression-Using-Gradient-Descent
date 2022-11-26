@@ -102,11 +102,19 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/116530537/204099275-2e070272-96cd-4340-9909-b042b4b3378e.png)
+
 ![logistic regression using gradient descent2](folder/s1.png)
 ![logistic regression using gradient descent2](folder/s2.png)
-![logistic regression using gradient descent3](![logistic regression using gradient descent2](folder/s3.png))
-![logistic regression using gradient descent4](![logistic regression using gradient descent2](folder/s4.png)
-)
+![image](https://user-images.githubusercontent.com/116530537/204099295-362f2dae-c6a2-4f3b-bd2f-b5a9755004fb.png)
+
+![image](https://user-images.githubusercontent.com/116530537/204099332-415e00eb-245a-4326-a47b-fc06f78b63c9.png)
+
+![image](https://user-images.githubusercontent.com/116530537/204099350-05c5fb09-dda9-4beb-bf5a-3e6dc563f65b.png)
+
+![logistic regression using gradient descent3](folder/s3.png)
+![logistic regression using gradient descent4](folder/s4.png)
+
 
 
 ## Result:
